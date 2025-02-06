@@ -1,7 +1,7 @@
 # Documentação do Projeto ACME
 
 ## Introdução
-O **ACME** é um sistema de gerenciamento de contatos desenvolvido em **C**, utilizando **listas dinâmicas** para manipulação dos dados e **arquivos binários** para armazenamento persistente. O projeto foi criado em conjunto com o programador Gabriel Vitor **[GabrielVitorGL](https://github.com/GabrielVitorGL)** como parte da disciplina **Estrutura de Dados 1** do curso de **Análise e Desenvolvimento de Sistemas** do **IFSP - Guarulhos**.
+O **ACME** é um sistema de gerenciamento de contatos desenvolvido em **C**, utilizando **listas dinâmicas** para manipulação dos dados e **arquivos binários** para armazenamento persistente. O projeto foi criado em conjunto com o programador **[GabrielVitorGL](https://github.com/GabrielVitorGL)** como parte da disciplina **Estrutura de Dados 1** do curso de **Análise e Desenvolvimento de Sistemas** do **IFSP - Guarulhos**.
 
 ## Funcionalidades
 - Cadastro de novos clientes.
